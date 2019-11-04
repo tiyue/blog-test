@@ -27,4 +27,4 @@
 ##  Git和Github关联
 1. ssh-keygen -t rsa  4096  -C  <邮箱地址>
 2. 打开公钥并上传至Github
-![上传公钥](https://github.com/tiyue/blog-test/raw/master/images/git_and_github.jpg)
+![上传公钥](https://github.com/tiyue/blog-test/raw/master/images/git_and_github.png)
